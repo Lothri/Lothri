@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lothri
-- 👀 I’m interested in learning Java through practice
-- 🌱 I’m currently learning Java and Python
+- 👀 I’m interested in creating and helping projects in Node.js
+- 🌱 I’m currently learning more about using Express.js and Mongoose
 - 💞️ I’m looking to collaborate on projects that have coding issues to be solved (beginner level).
 - 📫 How to reach me: tolensky@hotmail.com
 
